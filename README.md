@@ -1,4 +1,4 @@
-# MediKiosk (AyuVani / MediThread)
+# MediKiosk 
 
 > **Privacy-First AI Clinical Intake & Longitudinal Health Organizer**  
 > Converts patient-reported symptoms, wearables/vitals readings, and unstructured medical documents into a structured, doctor-reviewable longitudinal health record with strictly non-diagnostic safety guardrails.
@@ -185,4 +185,4 @@ npm run build
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
